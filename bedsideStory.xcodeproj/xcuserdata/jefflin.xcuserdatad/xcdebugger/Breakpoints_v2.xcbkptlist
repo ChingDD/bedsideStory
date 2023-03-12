@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E5079C15-08DC-460E-B38F-01B8647FF0AE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30819FFC-7BCD-4788-82FD-F2A665EC3810"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bedsideStory/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "30819FFC-7BCD-4788-82FD-F2A665EC3810 - c0c36c8f6a1c8edf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bedsideStory.ViewController.LabelText.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "bedsideStory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jefflin/Desktop/%E5%BD%BC%E5%BE%97%E6%BD%98/bedsideStory/bedsideStory/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "30819FFC-7BCD-4788-82FD-F2A665EC3810 - 81cf4961e48ad2ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bedsideStory.ViewController.LabelText.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "bedsideStory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jefflin/Desktop/%E5%BD%BC%E5%BE%97%E6%BD%98/bedsideStory/bedsideStory/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "30819FFC-7BCD-4788-82FD-F2A665EC3810 - 12413f3ac122ebda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bedsideStory.ViewController.LabelText.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "bedsideStory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jefflin/Desktop/%E5%BD%BC%E5%BE%97%E6%BD%98/bedsideStory/bedsideStory/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "30819FFC-7BCD-4788-82FD-F2A665EC3810 - 7259cd33eb4b7a12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bedsideStory.ViewController.LabelText.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "bedsideStory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jefflin/Desktop/%E5%BD%BC%E5%BE%97%E6%BD%98/bedsideStory/bedsideStory/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "30819FFC-7BCD-4788-82FD-F2A665EC3810 - 587c150c3555073b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bedsideStory.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; bedsideStory.ViewController"
+                  moduleName = "bedsideStory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jefflin/Desktop/%E5%BD%BC%E5%BE%97%E6%BD%98/bedsideStory/bedsideStory/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "30819FFC-7BCD-4788-82FD-F2A665EC3810 - 7ba3a0cba9b2cf95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bedsideStory.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;bedsideStory.ViewController&gt;"
+                  moduleName = "bedsideStory"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jefflin/Desktop/%E5%BD%BC%E5%BE%97%E6%BD%98/bedsideStory/bedsideStory/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
